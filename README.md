@@ -2,6 +2,9 @@ Hello!
 Inside the RZAZoo.sln file, when opened, there will be a tab on the right box called "Web.config", likely at the bottom of the list though this may vary
 
 Please change the connection string lines where it says "data source" to the path of where you have the databases downloaded
+
+for example: "C:\Documents\RZAZoo\Booking.mbd"
+
 ![image](https://github.com/pomzie/RZAZoo/assets/68748771/8249f064-4b6a-4ff1-8dbf-b8a05ca6cbfc)
 
 ![image](https://github.com/pomzie/RZAZoo/assets/68748771/4ff19a98-002f-49d7-b399-0b513e470a08)
